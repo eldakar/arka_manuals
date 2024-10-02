@@ -30,4 +30,16 @@ Pojawi sie to okno, klikamy na `utworz konfiguracje`
 
 ![image](https://github.com/user-attachments/assets/1efabfa4-2c9f-42a7-8555-b69cadac85b3)
 
+W taki oto sposob utworzony zostal plik Eldakar.json
 
+![image](https://github.com/user-attachments/assets/82e74cf2-99ae-4557-b229-d22d3292c1fa)
+
+### Komenda `/konfiguracja`
+
+![image](https://github.com/user-attachments/assets/7aa7b299-d6bb-4c8b-81a9-ca72c9c3c576)
+
+Klikamy na `/pobierz baze tutaj`, Zainstaluj numeryczna + zainstaluj cltr+alt chodzenie
+
+# TODO POBIERZ_BAZE FIX
+
+### Restart + Logowanie
