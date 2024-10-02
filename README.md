@@ -40,7 +40,13 @@ W taki oto sposob utworzony zostal plik Eldakar.json
 
 Klikamy na `/pobierz baze tutaj`, Zainstaluj numeryczna + zainstaluj cltr+alt chodzenie
 
-## TODO POBIERZ_BAZE FIX
+### Jak naprawic sciagniecie bazy
+
+### Komenda `/lua db:close("people")`
+### Komenda `/pobierz_baze`
+
+![image](https://github.com/user-attachments/assets/0aaaeedc-44ea-4574-b7de-dad0a69f5ab6)
+
 
 ### Restart + Logowanie 
 
