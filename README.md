@@ -1,6 +1,6 @@
 # arka_manuals
 
-### Instalacja i Profil
+## Instalacja i Profil
 
 ![image](https://github.com/user-attachments/assets/0e8eeab1-a114-4381-b88e-577df5b5a225)
 
@@ -40,6 +40,41 @@ W taki oto sposob utworzony zostal plik Eldakar.json
 
 Klikamy na `/pobierz baze tutaj`, Zainstaluj numeryczna + zainstaluj cltr+alt chodzenie
 
-# TODO POBIERZ_BAZE FIX
+## TODO POBIERZ_BAZE FIX
 
-### Restart + Logowanie
+### Restart + Logowanie 
+
+Na tym etapie nalezy sprawdzic czy wszystko jest ok. Powinna dzialac klawiatura numeryczna - powinna sie mapka przesuwac przy poruszaniu.
+
+### Komenday `/kondycje` 
+
+wyswietli okno kondycji - naprawdopodobniej pod mapa po prawej stronie okna - ktore trzeba rozsunac
+
+![image](https://github.com/user-attachments/assets/3e4a6fd4-b824-4c47-bd20-8390e689c686)
+
+## MCpaczka
+
+Sciagamy plik
+
+![image](https://github.com/user-attachments/assets/85dfb1ac-5b7e-4dff-801e-4f54a86d8759)
+
+Nastepnie wpisz `/lua getMudletHomeDir()` i znajdz ten katalog w explorerze.
+
+Wylacz mudlet
+
+Przejdz do podkatalogu /plugins i rozpakuj tam paczke - tak aby pliki lua byly bezposrednio w katalogu arkadia-mc
+
+![image](https://github.com/user-attachments/assets/dfa88f78-6d54-4773-b434-e4433179c60d)
+
+### Zaloguj na arke
+
+Zobaczysz komunikaty o zmianach w konfiguracji
+
+![image](https://github.com/user-attachments/assets/343dd29d-14cc-48a3-b7fe-c9f40a7510db)
+
+## SPRAWDZ CZY KOMENDA `/mc` odda Ci liste opcji - jesli tak to instalacja jest poprawnie ukonczona
+
+## Mozesz teraz skopiowac swoj stary Eldakar.json do pliku na wylaczonym mudlecie
+
+
+
