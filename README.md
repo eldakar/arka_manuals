@@ -16,3 +16,18 @@ I teraz robimy kroki wg dzordzyka, ktore znajduja sie tutaj - ale streszcze `htt
 
 ![image](https://github.com/user-attachments/assets/c33f31f8-740e-4eca-8adf-8d35b5dfaf03)
 
+Klikamy na 'pobierz mape'
+
+![image](https://github.com/user-attachments/assets/738a50ae-f811-45a8-ae8a-83a141234617)
+
+### Komenda `/aktualizuj_skrypty`
+
+![image](https://github.com/user-attachments/assets/bfafe480-aabf-4ed0-9ddf-b42bc4ffdc66)
+
+### Restart + Logowanie
+
+Pojawi sie to okno, klikamy na `utworz konfiguracje`
+
+![image](https://github.com/user-attachments/assets/1efabfa4-2c9f-42a7-8555-b69cadac85b3)
+
+
