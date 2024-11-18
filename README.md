@@ -40,14 +40,6 @@ W taki oto sposob utworzony zostal plik Eldakar.json
 
 Klikamy na `/pobierz baze tutaj`, Zainstaluj numeryczna + zainstaluj cltr+alt chodzenie
 
-### Jak naprawic sciagniecie bazy
-
-### Komenda `/lua db:close("people")`
-### Komenda `/pobierz_baze`
-
-![image](https://github.com/user-attachments/assets/0aaaeedc-44ea-4574-b7de-dad0a69f5ab6)
-
-
 ### Restart + Logowanie 
 
 Na tym etapie nalezy sprawdzic czy wszystko jest ok. Powinna dzialac klawiatura numeryczna - powinna sie mapka przesuwac przy poruszaniu.
@@ -81,6 +73,14 @@ Zobaczysz komunikaty o zmianach w konfiguracji
 ## SPRAWDZ CZY KOMENDA `/mc` odda Ci liste opcji - jesli tak to instalacja jest poprawnie ukonczona
 
 ## Mozesz teraz skopiowac swoj stary Eldakar.json do pliku na wylaczonym mudlecie
+
+
+### Jak naprawic sciagniecie bazy
+
+### Komenda `/lua db:close("people")`
+### Komenda `/pobierz_baze`
+
+![image](https://github.com/user-attachments/assets/0aaaeedc-44ea-4574-b7de-dad0a69f5ab6)
 
 
 
